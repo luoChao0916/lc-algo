@@ -1,4 +1,4 @@
-package com.zkwq.hash;
+package com.unis.hash;
 
 import java.util.HashMap;
 import java.util.Map;

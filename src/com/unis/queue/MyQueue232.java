@@ -1,4 +1,4 @@
-package com.zkwq.queue;
+package com.unis.queue;
 
 import java.util.Deque;
 import java.util.LinkedList;

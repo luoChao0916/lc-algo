@@ -1,4 +1,4 @@
-package com.zkwq.recursion.divideandconquer;
+package com.unis.recursion.divideandconquer;
 
 import java.util.HashMap;
 import java.util.Map;
