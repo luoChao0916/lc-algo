@@ -5,7 +5,7 @@ package com.unis.recursion.divideandconquer;
  * @desc (实现 pow(x, n) ，即计算 x 的整数 n 次幂函数（即，xn ）。)
  * @date 2023/2/6
  */
-public class Pow {
+public class Pow50 {
     public static void main(String[] args) {
         System.out.println(myPow(2,-3));
     }

@@ -9,7 +9,7 @@ import java.util.Map;
  *  每次你可以爬 1 或 2 个台阶 。 你有多少种不同的方法可以爬到楼顶呢 ？)
  * @date 2023/2/7
  */
-public class ClimbStairs {
+public class ClimbStairs70 {
     public static void main(String[] args) {
         System.out.println(climbStairs(4));
     }
